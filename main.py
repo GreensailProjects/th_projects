@@ -1,8 +1,8 @@
-from alien_invasion import Alien_invasion
+from alien_invasion import AlienInvasion
 
 
 def main():
-    ai = Alien_invasion()
+    ai = AlienInvasion()
     ai.run_game()
 
 
